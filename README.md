@@ -3,6 +3,14 @@
 https://show.zohopublic.eu/publish/4d1ikdb118995425a414c80b18034576eb3d2
 
 
+# Dati demo utilizzati 
+
+Purtroppo non è possibile distribuire i grigliati utilizzati (nè quelli GK2 nè quelli NTv2) ma abbiamo messo a disposizione i file convertiti con le diverse modalità e l'estensione dei grigliati utilizzati
+
+Dentro il geopackage trovate tutti i layer e potete confrontare i dati visualizzando gli scostamenti tra l'uso dei grigliati (parametro nadgrids) o dei parametri towgs84
+
+I punti di test sono estratti dalle reti di raffittimento di regione Liguria
+https://geoportal.regione.liguria.it/archivio-focus/item/598-rete-geodetica-regionale.html
 
 # Istruzioni
 
