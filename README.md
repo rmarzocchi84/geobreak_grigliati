@@ -50,7 +50,7 @@ es. codice ogr2ogr senza uso grigliati
 .\ogr2ogr.exe -f "ESRI Shapefile" -s_srs EPSG:3003 -t_srs EPSG:7791 output.shp input.shp
 ```
 
-es. codice ogr2ogr senza uso grigliati
+es. codice ogr2ogr con uso grigliati
 
 ```
 .\ogr2ogr.exe -f "ESRI Shapefile" -s_srs '+proj=tmerc +lat_0=0 +lon_0=9 +k=0.9996 +x_0=1500000 +y_0=0 +ellps=intl +nadgrids=../share/proj/44080835_44400922_R40_F00.gsb +units=m +no_defs' -t_srs EPSG:7791 output.shp input.shp
