@@ -1,3 +1,9 @@
+# Slide Geobreak
+
+https://show.zohopublic.eu/publish/4d1ikdb118995425a414c80b18034576eb3d2
+
+
+
 # Istruzioni
 
 Con l'evoluzione della libreria PROJ alle versioni 5 e 6 è stato introdotto un file sqlite denominato proj.db che contiene tra gli altri elementi una tabella denominata *grid_transformation*, con l'elenco di tutte le trasformazioni fra sistemi di riferento
